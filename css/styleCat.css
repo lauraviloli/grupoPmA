@@ -22,6 +22,9 @@ body{
     float: left;
     padding: 10px;
 }
+#logo img {
+    height: 50px;
+}
 #menu {
     float: right;
     margin: 24px;
@@ -34,7 +37,7 @@ body{
     padding: 20px;
     text-decoration: none;
 }
-img{
+table img{
     display: block;
     height: 150px;
     width: 100px;
